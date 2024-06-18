@@ -60,15 +60,11 @@ Repository Structure
 └── Traffic_Sign_Classification.ipynb
 ```
 
-License
-
-This repository is licensed under the MIT License. See the LICENSE file for more information.
-
 About Me
 
 I am a passionate deep learning engineer with a strong background in machine learning, deep learning, and natural language processing. I enjoy solving complex problems and leveraging data-driven insights to create impactful solutions. 
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/abhay-rohilla-92477a225/
 - Email: abhayrohilla267@gmail.com
 
 Contact
